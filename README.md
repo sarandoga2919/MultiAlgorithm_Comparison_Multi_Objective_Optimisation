@@ -12,7 +12,8 @@ Based on the characteristic of this problem we used
   - ZDT test suite
 
 
+Authors: 
 
-
-
-
+* Camargo Saray
+* Duan P Van
+* Perrier Sebastien
